@@ -7,7 +7,7 @@ import stopLogo from './assets/stopLogo.png';
 import PlusCircle from './assets/plus-circle.png';
 import destLogo from './assets/destinationLogo.png';
 
-const API_KEY = "AIzaSyAolXVBph__8LXk-JukgnxDUI4LPDQAsxQ";
+const API_KEY = "API_KEY_HERE";
 
 const loader = new Loader({
   apiKey: API_KEY,
